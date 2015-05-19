@@ -1,6 +1,7 @@
 #Simons child M100 analysis final version README
 
-analyses done in R 3.1.2
+Orginal analyses done in R 3.1.2
+Repository analyses done in R 3.1.3
 
 ##Packages used:
 ggplot2  
